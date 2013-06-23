@@ -32,11 +32,11 @@
 8212fb15be3e647d74a79004ddda249cf5b52116  .\clean-old-file.php
 823e48a0cd1ae65abb76cf9b55f1f9230ed6fc6a  .\clean-sha1.php
 83232fe8052d7d9b7f4a8ecacc000d5d4adda73d  .\goagent-local\proxy.py
-8a0465e6b0f3b6fd51b1ce7a54998ea960ad0f1f  .\data\version
 8ae566230d7b5afd79fda2a0fca7cc758e7efb62  .\utility\php\php.ini
 91bbcdf1b8547ce88936fe9c3c88516cb169b98e  .\goagent-local\python33.dll
 9327581c48da2e1f8eed7447bc71410cb9afab61  .\utility\php\ext\php_openssl.dll
 9af244567ebcb618fbfcc08aeb2f77710824f17c  .\utility\php\php5ts.dll
+9dc81908e355b7fd38c996e1602fde1039ef58eb  .\data\version
 a71f102d68896a675fff232179e6ebe7f2e2bcaa  .\goagent-local\goagent-gtk.py
 aa98f835169ae80f8c38ba0223f1a56f884d83bc  .\data\greatagent.pubkey
 aa98f835169ae80f8c38ba0223f1a56f884d83bc  .\data\wwqgtxx-goagent.pubkey

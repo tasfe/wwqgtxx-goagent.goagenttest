@@ -32,6 +32,7 @@
 8a7741058a60a461593a4d589281d030  .\goagent-local\myproxy.ini.sample
 8c9ae240b7edb3651968b355ede7c779  .\goagent-local\proxy.py
 8e74392880c3b281d5724381e9eab57c  .\goagent-local\CA.crt
+90fdd0fcbfd93fa381e44518b27f12c8  .\data\version
 91f555154deadd9ff2a6d0b518550394  .\runner2.bat
 9b756caf11ea03e76940f9a11cfe13bf  .\gservers-common.inc.php
 9c5f8e677db489195d3c11ba4b449b15  .\utility\php\ssleay32.dll
@@ -48,7 +49,6 @@ d40647dbece40ccca68b7ae627895073  .\utility\vcredist_x86_sc.exe
 d41d8cd98f00b204e9800998ecf8427e  .\data\usegc1
 d59a54829073e1bb995ea8f3df39605c  .\goagent-local\addto-startup.py
 d60725689326e73aa630cd2b991f9f21  .\string.inc.php
-d7dfbd5bf2667ac0b697b922a6677248  .\data\version
 df8d015b1c666c8b49853d186cb51853  .\goagent-local\cacert.pem
 e77199003234b9529050d74382fda40f  .\goagent-local\goagent.exe
 e7d91d008fe76423962b91c43c88e4eb  .\goagent-local\msvcr90.dll
